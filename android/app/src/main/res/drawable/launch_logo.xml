@@ -1,0 +1,12 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:src="@drawable/login_bg"
+            android:gravity="fill" />
+    </item>
+    <item
+        android:drawable="@drawable/splash_logo"
+        android:gravity="center"
+        android:width="300dp"
+        android:height="80dp" />
+</layer-list>

@@ -1,0 +1,63 @@
+
+{
+  "personName": "Student",
+  "appThemes": [
+    {
+      "pryThemeName": "Theme 1",
+      "sryThemeName": "Theme 2",
+      "themePreviewImage": "ImagePath"
+    }
+  ],
+  "menus": [
+    "Deposit",
+    "Cards",
+    "Loan",
+    "Insurance",
+    "Account",
+    "E-Shop"
+  ],
+  "pages": [
+    {
+      "pageName": "Deposit",
+      "components": [
+        "RD",
+        "FD"
+      ]
+    },
+    {
+      "pageName": "Cards",
+      "components": [
+        "Debit card"
+      ]
+    },
+    {
+      "pageName": "Loan",
+      "components": [
+        "Educational loan"
+      ]
+    },
+    {
+      "pageName": "Insurance",
+      "components": [
+        "Health insurance",
+        "Vehicle insurance",
+        "Life insurance",
+        "Medical insurance",
+        "Travel insurance"
+      ]
+    },
+    {
+      "pageName": "Account",
+      "components": [
+        "Personal account",
+        "NRI account"
+      ]
+    },
+    {
+      "pageName": "E-Shop",
+      "components": [
+        "Shop"
+      ]
+    }
+  ]
+}

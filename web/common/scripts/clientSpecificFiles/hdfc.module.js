@@ -1,0 +1,1 @@
+!function(){"use strict";window.ResulHdfcMethods={getPsuedoCookie:function(e){let t=`${e}=`;if(document.cookie){let e=decodeURIComponent(document.cookie).split(";");for(let o=0;o<e.length;o++){let n=e[o];for(;" "==n.charAt(0);)n=n.substring(1);if(0==n.indexOf(t))return n.substring(t.length,n.length)}}return""}}}();

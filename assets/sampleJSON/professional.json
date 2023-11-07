@@ -1,0 +1,84 @@
+{
+  "personName": "Professional",
+  "appThemes": [
+    {
+      "pryThemeName": "Theme 3",
+      "sryThemeName": "Theme 4",
+      "themePreviewImage": "ImagePath"
+    }
+  ],
+  "menus": [
+    "Deposit",
+    "Cards",
+    "Loan",
+    "Insurance",
+    "Demat account",
+    "Account",
+    "E-Shop"
+  ],
+  "pages": [
+    {
+      "pageName": "Deposit",
+      "components": [
+        "RD",
+        "FD",
+        "Certificate of deposite"
+      ]
+    },
+    {
+      "pageName": "Cards",
+      "components": [
+        "Debit card",
+        "Debit card"
+      ]
+    },
+    {
+      "pageName": "Loan",
+      "components": [
+        "Personal loan",
+        "Vehicle loan",
+        "Gold loan",
+        "Utility loan",
+        "Overdraft loan",
+        "Loan against asset"
+      ]
+    },
+    {
+      "pageName": "Insurance",
+      "components": [
+        "Health insurance",
+        "Vehicle insurance",
+        "Term insurance",
+        "Life insurance",
+        "Medical insurance",
+        "Property insurance",
+        "Travel insurance"
+      ]
+    },
+    {
+      "pageName": "Demat account",
+      "components": [
+        "Stocks and ETFs",
+        "Bond",
+        "Mutual fund",
+        "Trading"
+      ]
+    },
+    {
+      "pageName": "Account",
+      "components": [
+        "Personal account",
+        "Current account",
+        "NRI account",
+        "Forex account",
+        "PPF account"
+      ]
+    },
+    {
+      "pageName": "E-Shop",
+      "components": [
+        "Shop"
+      ]
+    }
+  ]
+}
